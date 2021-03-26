@@ -10,7 +10,7 @@
 - If you are not finished after 60 minutes, keep working and we will look at your commit history to see how long it took to complete
 - If you have technical issues come up, please note in the Submission form at the end of these instructions
 
-## Part I: Creating Directories and Files; Initializing Git and Pushing to GitHub
+### Part I: Creating Directories and Files; Initializing Git and Pushing to GitHub
 1. Use your terminal to create a directory called `mod_0_assessment`
 1. Inside of that directory, create a file called `variables.rb`
 1. Initialize `mod_0_assessment` as a git repository.
@@ -18,7 +18,7 @@
 1. Create a public repo on Github with the same name (`mod_0_assessment`).
 1. Add the remote and push your local repository to Github.
 
-## Part II: Program Specific Challenge
+### Part II: Program Specific Challenge
 1. Open up your `variables.rb` file in your text editor.
 1. Assign a variable called `famous_person` to a string value of your choosing
 1. Assign a variable called `is_active` to a boolean value
@@ -34,7 +34,7 @@
 1. Push your changes to Github.
 
 
-## Part III: Modeling Using Hashes
+### Part III: Modeling Using Hashes
 1. Inside of `mod_0_assessment`, create a new directory called `models`.
 1. Inside of `models`, create two files:
     - `model_a.rb`
