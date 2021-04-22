@@ -33,7 +33,7 @@
 1. Add and commit your changes with the message "Complete program specific challenge"
 1. Push your changes to Github.
 
-### Part III: Modeling Using objectes
+### Part III: Modeling Using Objects
 1. Inside of `mod_0_assessment`, create a new directory called `models`.
 1. Inside of `models`, create two files:
     - `modelA.js`
