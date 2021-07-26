@@ -41,7 +41,7 @@
     - `model_b.rb`
 
 1. Open up `model_a.rb` in your text editor.
-1. Using a **hash**, we want you to model a `SCHOOL` - be sure your model includes the following:
+1. Using a **hash**, we want you to model a `AIRPORT` - be sure your model includes the following:
     - Created new variable that follows strong naming conventions and is assigned to a hash
     - 2 keys assigned to a string value
     - 2 keys assigned to an integer or float value
@@ -50,7 +50,7 @@
 1. Save your file.
 1. Add and commit your changes with a properly formatted commit message
 1. Open up `model_b.rb` in your text editor.
-1. Using a **hash**,  we want you to model a `PET` - be sure your model includes the following:
+1. Using a **hash**,  we want you to model a `VEHICLE` - be sure your model includes the following:
     - Created new variable that follows strong naming conventions and is assigned to a hash
     - 2 keys assigned to a string value
     - 2 keys assigned to an integer or float value
